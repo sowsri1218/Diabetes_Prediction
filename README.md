@@ -11,13 +11,13 @@ Seaborn: For making statistical graphics.
 
 The dataset, which contains information related to diabetes prediction, is then loaded for exploration and analysis.
 
-**2. Data Exploration and Cleaning**
+**2 Data Exploration and Cleaning**
 
 Exploratory Data Analysis (EDA): This step involves examining the dataset to understand its structure, identify patterns, and detect any anomalies or missing values.
 
 Data Cleaning: Handling missing values, correcting data types, and removing any irrelevant or duplicate entries to ensure the dataset is ready for analysis.
 
-Display Top 5 Rows of the Dataset:
+**Display Top 5 Rows of the Dataset:**
 
 An initial glimpse into the dataset is provided by showcasing the first five rows. This step offers an overview of the columns and their corresponding data, including factors such as age, sex, and various health metrics.
 
