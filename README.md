@@ -21,22 +21,22 @@ Display Top 5 Rows of the Dataset:
 
 An initial glimpse into the dataset is provided by showcasing the first five rows. This step offers an overview of the columns and their corresponding data, including factors such as age, sex, and various health metrics.
 
-3. Check the Last 5 Rows of the Dataset:
+**3. Check the Last 5 Rows of the Dataset:**
 
 Similarly, the last five rows of the dataset are examined to ensure completeness and observe any potential patterns or anomalies.
 
-4. Find the Shape of the Dataset:
+**4. Find the Shape of the Dataset:**
 
 The dimensions of the dataset, indicating the number of rows and columns, are determined. This step sets the stage for understanding the scale of the dataset.
 
-5. Get Information About the Dataset:
+**5. Get Information About the Dataset:**
 
-A detailed overview of the dataset is obtained, providing insights into the total number of rows, columns, and the data types of each column. This information aids in structuring subsequent analyses.
+"A comprehensive overview of the dataset is obtained, providing insights into the total number of rows, columns, and the data types of each column. This information is crucial for structuring subsequent analyses."
 
-6. Check Null Values in the Dataset:
+**6. Check Null Values in the Dataset:**
 
-The presence of missing values is assessed to ensure data integrity. Fortunately, the dataset is found to be free of any null values.
+The dataset is assessed for missing values to ensure data integrity. Fortunately, no null values are found."
 
-7. Check for Duplicate Data and Drop Them:
+**7. Check for Duplicate Data and Drop Th**em:
 
 Duplicate records, if any, are identified and subsequently removed. This step is crucial for maintaining the accuracy and reliability of the dataset.
