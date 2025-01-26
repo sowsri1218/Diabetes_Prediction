@@ -1,4 +1,5 @@
 **Diabetes_Prediction**
+
 **1. Import the Libraries and Dataset:**
 The project begins by importing essential Python libraries for data analysis, including Pandas, Matplotlib, and Seaborn.
 Pandas: For data manipulation and analysis.
