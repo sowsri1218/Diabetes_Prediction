@@ -10,4 +10,9 @@ Matplotlib: For creating static, animated, and interactive visualizations.
 Seaborn: For making statistical graphics.
 
 The dataset, which contains information related to diabetes prediction, is then loaded for exploration and analysis.
-The dataset, which contains information related to Diabeted_Prediction , is loaded for exploration and analysis
+
+**2. Data Exploration and Cleaning**
+
+Exploratory Data Analysis (EDA): This step involves examining the dataset to understand its structure, identify patterns, and detect any anomalies or missing values.
+
+Data Cleaning: Handling missing values, correcting data types, and removing any irrelevant or duplicate entries to ensure the dataset is ready for analysis.
