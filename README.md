@@ -2,6 +2,7 @@
 
 **1. Import the Libraries and Dataset:**
 The project begins by importing essential Python libraries for data analysis, including Pandas, Matplotlib, and Seaborn.
+
 Pandas: For data manipulation and analysis.
 
 Matplotlib: For creating static, animated, and interactive visualizations.
