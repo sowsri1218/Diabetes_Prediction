@@ -40,3 +40,13 @@ The dataset is assessed for missing values to ensure data integrity. Fortunately
 **7. Check for Duplicate Data and Drop Th**em:
 
 Duplicate records, if any, are identified and subsequently removed. This step is crucial for maintaining the accuracy and reliability of the dataset.
+
+**8. Get Overall Statistics About the Dataset:**
+
+A comprehensive statistical summary of the dataset is generated, offering key metrics such as mean, standard deviation, and quartiles. This statistical insight aids in understanding the central tendencies of the data.
+
+**9. Draw Correlation Matrix:**
+
+To explore relationships between different features, a correlation matrix is visualized using a heatmap. This step facilitates the identification of potential correlations among variables
+
+
