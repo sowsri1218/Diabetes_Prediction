@@ -36,16 +36,15 @@ To install and set up the project, you'll need the following Python libraries:
 
 1. Clone the repository to your local machine
 
-  git clone https://github.com/sowsri1218/Diabetes_Prediction.git
+      git clone https://github.com/sowsri1218/Diabetes_Prediction.git
 
 2.	Install the required libraries by using
 
-  pip install numpy pandas matplotlib seaborn
+      pip install numpy pandas matplotlib seaborn
 
 3.	Run the Jupyter Notebook to analyze the dataset and make predictions.
 
-
-  If you'd like to contribute to this project, please follow these guidelines:
+If you'd like to contribute to this project, please follow these guidelines:
 
 1.	Fork the repository.
 
