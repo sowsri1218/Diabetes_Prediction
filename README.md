@@ -11,7 +11,7 @@ This project aims to analyze various factors that influence diabetes, such as ag
 - [License](#license)
 - [Results](#Results)
 - [Insights&Recommendations](#Insights&Recommendations)
-- [Conclusion].(#Conclusion).
+- [Conclusion]
 
 # Objectives
 
