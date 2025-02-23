@@ -40,13 +40,20 @@ You can download the dataset from the CSV file attached to this project or from 
 To install and set up the project, you'll need the following Python libraries:
 
 **NumPy**
+
 **Pandas**
+
 **Matplotlib**
+
 **Seaborn**
+
 **Scikit-learn**
+
 **Scipy**
+
 **Plotly**
-- **XGBoost**
+
+**XGBoost**
 
 
 ## Usage
@@ -101,7 +108,7 @@ Based on the analysis of various factors influencing diabetes, here are some act
 **Healthy Lifestyle Choices**: As individuals age, they should focus on maintaining a healthy diet, managing their BMI, and engaging in regular physical activity to reduce the risk of diabetes.
 
 
-**Conclusion:** 
+## Conclusion 
 
 The developed machine learning model provides a data-driven approach to diabetes prediction and risk of developing elevated HBA1c levels by using strong predictors. This method enables early diagnosis and the implementation of preventive measures, which are crucial in managing and reducing the risk of diabetes-related complications.
 
