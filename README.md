@@ -36,15 +36,15 @@ You can download the dataset from the CSV file attached to this project or from 
 ## Installation_Prerequisities
 
 To install and set up the project, you'll need the following Python libraries:
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- scipy
-- plotly
-- xgboost
 
+**NumPy**
+**Pandas**
+**Matplotlib**
+**Seaborn**
+**Scikit-learn**
+**Scipy**
+**Plotly**
+- **XGBoost**
 
 
 ## Usage
@@ -69,7 +69,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is open source and available for anyone to use for personal or educational purposes. As a portfolio project, it is not encumbered by formal licensing restrictions. Feel free to explore, modify, and distribute the code as you see fit.
 
 ## Results
 
