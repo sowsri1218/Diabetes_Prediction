@@ -1,7 +1,9 @@
 # Diabetes Prediction
 
-## Description
-This project aims to analyze various factors that influence diabetes, such as age, gender, hypertension, blood glucose levels, smoking history, HbA1c levels, and BMI. By examining these factors, we can predict the likelihood of diabetes in individuals.
+## Project Overview
+
+This project aims to analyze various factors that influence diabetes, such as age, gender, hypertension, blood glucose levels, smoking history, HbA1c levels, and BMI. Additionally, it focuses on developing machine learning models to predict the likelihood of diabetes in individuals based on these factors. By examining these variables, we can better understand the risk factors and enhance our ability to predict the development of diabetes.
+
 
 ## Table of Contents
 - [Objectives](#Objectives)
