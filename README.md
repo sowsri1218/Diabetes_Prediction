@@ -42,6 +42,8 @@ To install and set up the project, you'll need the following Python libraries:
 - seaborn
 - scikit-learn
 - scipy
+- plotly
+- xgboost
 
 
 
@@ -73,13 +75,14 @@ This project is licensed under the MIT License.
 
 The analysis revealed significant correlations between diabetes and factors such as age, BMI, hypertension, HbA1c, and blood glucose levels.
 
-The machine learning data model achieved an accuracy of 0.96, indicating that 96% of the predictions were correct.
+Applied machine learning models like logistic regression, Random forest classifier, XGBoost and linear Regression. The machine learning (XGBoost) data model achieved an accuracy of 0.97, indicating that 97% of the predictions were correct.
 
-Precision was 0.86, meaning that when the model predicted diabetes, it was correct 86% of the time.
+Precision was 0.97, meaning that when the model predicted diabetes, it was correct 86% of the time.
 
-Recall was 0.63, suggesting that the model correctly identified 63% of the actual diabetic cases.
+Recall was 0.70, suggesting that the model correctly identified 70% of the actual diabetic cases.
 
-The F1-score was 0.72, indicating a good balance between precision and recall.
+The linear Regression model indicates 96% of the variability in HBA1c levels.
+
 
 ## Insights and Recommendations
 
@@ -98,6 +101,6 @@ Based on the analysis of various factors influencing diabetes, here are some act
 
 **Conclusion:** 
 
-The developed machine learning model-logistic regression provides a data-driven approach to diabetes prediction. This method enables early diagnosis and the implementation of preventive measures, which are crucial in managing and reducing the risk of diabetes-related complications.
+The developed machine learning model provides a data-driven approach to diabetes prediction and risk of developing elevated HBA1c levels by using strong predictors. This method enables early diagnosis and the implementation of preventive measures, which are crucial in managing and reducing the risk of diabetes-related complications.
 
 By analyzing various factors such as age, gender, hypertension, blood glucose levels, smoking history, HbA1c levels, and BMI, this model offers valuable insights that can help individuals and healthcare professionals make informed decisions. The high accuracy and precision of the model further underscore its potential as a reliable tool in the fight against diabetes.
