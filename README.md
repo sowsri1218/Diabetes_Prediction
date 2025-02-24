@@ -86,7 +86,7 @@ The analysis revealed significant correlations between diabetes and factors such
 
 Applied machine learning models like logistic regression, Random forest classifier, XGBoost and linear Regression. The machine learning (XGBoost) data model achieved an accuracy of 0.97, indicating that 97% of the predictions were correct.
 
-Precision was 0.97, meaning that when the model predicted diabetes, it was correct 86% of the time.
+Precision was 0.97, meaning that when the model predicted diabetes, it was correct 97% of the time.
 
 Recall was 0.70, suggesting that the model correctly identified 70% of the actual diabetic cases.
 
